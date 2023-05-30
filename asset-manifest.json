@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SongsApp/static/css/main.abd64e84.css",
+    "main.js": "/SongsApp/static/js/main.25778628.js",
+    "static/js/787.a607131f.chunk.js": "/SongsApp/static/js/787.a607131f.chunk.js",
+    "static/media/logo.svg": "/SongsApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SongsApp/index.html",
+    "main.abd64e84.css.map": "/SongsApp/static/css/main.abd64e84.css.map",
+    "main.25778628.js.map": "/SongsApp/static/js/main.25778628.js.map",
+    "787.a607131f.chunk.js.map": "/SongsApp/static/js/787.a607131f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.25778628.js"
+  ]
+}
